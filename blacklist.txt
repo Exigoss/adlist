@@ -6810,6 +6810,7 @@ analytics-api.klickly.com
 analytics-api.samsunghealthcn.com
 analytics-batch.blitz.gg
 analytics-beacon.p.uliza.jp
+analytics-cf.bigcrunch.com
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
 analytics-consent-manager-v2-prod.azureedge.net
@@ -10841,6 +10842,7 @@ beacon.errorception.com
 beacon.flow.io
 beacon.klm.com
 beacon.qq.com
+beacon.radiko.jp
 beacon.riskified.com
 beacon.s.llnwi.net
 beacon.samsclub.com
@@ -10896,6 +10898,7 @@ beatifulllhistory.com
 beauartisticleaflets.com
 beaumont.actonservice.com
 beautifullyinflux.com
+beauty1.xyz
 beautyspumoid.top
 beaverculbert.uno
 beavertron.com
@@ -23019,6 +23022,7 @@ effectivegatetocontent.com
 effectivemeasure.net
 effectiveperformanceformat.com
 effectiveperformancenetwork.com
+effectscouncilman.com
 effectsembower.top
 effectsglancefirmly.com
 effectslacybulb.com
@@ -24654,6 +24658,7 @@ eulogyargin.top
 eultech.fnac.com
 eumarketing.sedgwick.com
 eumeainfo.motorolasolutions.com
+eunow4u.com
 eunzkvf.com
 euonymcalvous.com
 euosicjxjv.com
@@ -35507,10 +35512,12 @@ jaupozup.xyz
 jaurouth.xyz
 jav-7mmtv.top
 java8.xyz
+javacid.fun
 javascriptcdnlive.com
 javascriptcounter.appspot.com
 javgg.eu
 javmilk.org
+javmust.fun
 javs.actonservice.com
 javvso.newone-shop.com
 jawinfallible.com
@@ -39877,6 +39884,7 @@ local-hot-dates.com
 local-shares.ri.la
 localadbuy.com
 localedgemedia.com
+locallycompare.com
 locallyhastefowl.com
 localsnaughty.com
 locandalorries.com
@@ -52400,6 +52408,7 @@ pixel.driveniq.com
 pixel.dugwood.com
 pixel.europapress.net
 pixel.facebook.com
+pixel.fohr.co
 pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixel.inforsea.com
